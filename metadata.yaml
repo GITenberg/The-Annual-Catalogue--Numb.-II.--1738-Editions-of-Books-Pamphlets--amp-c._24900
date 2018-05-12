@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24900#The-Annual-Catalogue--Numb.-II.--1738-Editions-of-Books-Pamphlets--amp-c.
 gutenberg_issued: '2008-03-24'
 gutenberg_type: Text
 identifiers:
